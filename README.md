@@ -1,5 +1,7 @@
 # Call Center Coaching Simulator
 
+[Launch the live simulator](https://skipuros.github.io/call_center_coaching_simulator/)
+
 An interactive learning simulation that helps call center employees practice decisions that balance service quality with call accuracy.
 
 This is a generic portfolio demonstration. It contains no employer, customer, or proprietary information.
@@ -30,7 +32,7 @@ The experience demonstrates how scenario based practice can connect communicatio
 * TypeScript
 * HTML
 * CSS
-* Vinext
+* Next.js
 
 ## Instructional Design Approach
 
